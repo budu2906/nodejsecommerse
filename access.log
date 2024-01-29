@@ -1,0 +1,4 @@
+::1 - - [29/Jan/2024:17:59:26 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+::1 - - [29/Jan/2024:17:59:26 +0000] "GET /css/main.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+::1 - - [29/Jan/2024:17:59:26 +0000] "GET /css/product.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+::1 - - [29/Jan/2024:17:59:26 +0000] "GET /images/3f522d070dbbd3223457d5519571af96.jpg HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
